@@ -5,6 +5,9 @@
 # About
 Project to track the covid 19 status across the world using 3rd party API integration and visualization. Created on React, React Hooks, Javascript
 
+## Visit link 
+[https://covid-19-tracker-3fc1e.web.app/](https://covid-19-tracker-3fc1e.web.app/)
+
 # Installation
 - 1. Go to project home
 - 2. run in terminal `npm  start`
